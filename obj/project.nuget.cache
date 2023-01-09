@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kr4wcRzHvfqp//VZG3zHawng/BkLILuZHTpGWQjlH12uVRRKeLv401JSh03MQuPv+thHRdvhqe1TQqj6uX5tcw==",
+  "success": true,
+  "projectFilePath": "/home/antoinematheux/Programmation/C-sharp/EpidemySimulator/VSim.csproj",
+  "expectedPackageFiles": [
+    "/home/antoinematheux/.nuget/packages/csfml/2.5.0/csfml.2.5.0.nupkg.sha512",
+    "/home/antoinematheux/.nuget/packages/sfml.audio/2.5.0/sfml.audio.2.5.0.nupkg.sha512",
+    "/home/antoinematheux/.nuget/packages/sfml.graphics/2.5.0/sfml.graphics.2.5.0.nupkg.sha512",
+    "/home/antoinematheux/.nuget/packages/sfml.net/2.5.0/sfml.net.2.5.0.nupkg.sha512",
+    "/home/antoinematheux/.nuget/packages/sfml.system/2.5.0/sfml.system.2.5.0.nupkg.sha512",
+    "/home/antoinematheux/.nuget/packages/sfml.window/2.5.0/sfml.window.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
